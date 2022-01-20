@@ -1,9 +1,6 @@
 <h1 align= center><b>Vladilena Mirize Music</b></h1>
 <h3 align = center> Telegram Music Bot And Stream Feature New Version </h3>
 
-<h3 align="center">
-    Ready Use Metod
-</h3>
 
 <p align="center">
     A Support Group And Ready Running This Bot Music Telegram On Heroku!<br>
