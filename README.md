@@ -24,7 +24,7 @@
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/ridho17-ind/Skyzo-Deployed"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250"/</a>  
+<a href="https://heroku.com/deploy?template=https://github.com/Wahyu213/vladilena-mirize.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250"/</a>  
 </p>
 
 
