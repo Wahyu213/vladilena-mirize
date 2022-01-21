@@ -5,7 +5,7 @@
     <img src="https://telegra.ph/file/a7beb075ac7c82b445788.jpg">
  </p> 
  
- ## Available on Telegram as @Vladilena_MirizeBot
+# Available on Telegram as [@Vladilena_MirizeBot](https://t.me/Vladilena_MirizeBot)
 
 **Features**
 
