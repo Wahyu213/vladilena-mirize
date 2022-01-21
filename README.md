@@ -23,7 +23,7 @@
    
    
 <h2 align="center">
-   Metode Deploy
+   Deploy to heroku
 </h2>
 
 <p align="center">
