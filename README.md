@@ -4,23 +4,37 @@
 <p align="center">
     <img src="https://telegra.ph/file/a7beb075ac7c82b445788.jpg">
  </p> 
+ 
+ ## Available on Telegram as @Vladilena_MirizeBot
 
-<p align="center">
-    A Support Group And Ready Running This Bot Music Telegram On Heroku!<br>
-    <a href="https://t.me/OkaeriUserbot"> support </a>
-</p>
+**Features**
 
-<h2 align="center">
-   Requirements
-</h2>
+- Playlist, queue.
+- Supports Play from Youtube Playlist.
+- Change VoiceChat title to current playing song name.
+- Supports Live streaming from youtube
+- Supports both Jio Saavn and youtube to search songs.
+- Play from telegram file supported.
+- Play whole music files from a telegram channel.
+- Starts Radio after if no songs in playlist.
+- Automatically downloads audio for the first two tracks in the playlist to ensure smooth playing
+- Automatic restart even if heroku restarts.
 
-<p align="center">
-    <a href="https://www.python.org/downloads/release/python-390/"> Python3.9 </a> |
-    <a href="https://docs.pyrogram.org/intro/setup#api-keys"> Telegram API Key </a> |
-    <a href="https://t.me/botfather"> Telegram Bot Token </a> |
-    <a href="https://telegra.ph/How-To-get-Mongodb-URI-04-06"> MongoDB URI </a> |
- </p>
-   
+### Note
+
+```
+Contributions are welcomed, But Kanging and editing a few lines wont make you a Developer.
+Fork the repo, Do not Import code.
+
+```
+#### Support
+
+Connect Me On [Telegram](https://t.me/zenfrans)
+
+## Credits 
+- [Dash Eclipse's](https://github.com/dashezup) for his [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot).
+- [Thuhin](https://github.com/cachecleanerjeet) for his [Jio Saavn API](https://github.com/cachecleanerjeet/JiosaavnAPI).
+
    
 <h2 align="center">
    Deploy to heroku
